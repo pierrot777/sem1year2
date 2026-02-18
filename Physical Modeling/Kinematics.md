@@ -9,5 +9,5 @@ Core Variables:
 
 Velocity and speed:
 - Velocity 
-- 
+	- Average velocity = length of time interval: avg =  Δx/Δt
 
