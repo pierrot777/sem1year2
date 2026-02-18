@@ -5,5 +5,9 @@ Core Variables:
 - Position = x
 	- Origin and positive direction: x = 0 ----> x+
 - Displacement
-	- Change of position over a time interval: Δx = xFinal - xinitial
+	- Change of position over a time interval: Δx = xFinal - xInitial
+
+Velocity and speed:
+- Velocity 
+- 
 
