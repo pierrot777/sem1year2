@@ -14,5 +14,6 @@ Velocity and speed:
 
 Acceleration:
 - Average acceleration = change in velocity over a time interval / length of the time interval: (acceleration)avg = Δv/Δt
+- Signs same as velocity even though moving in negative means it just going in different direction.
 
 
