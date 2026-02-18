@@ -10,5 +10,8 @@ Core Variables:
 Velocity and speed:
 - Velocity 
 	- Average velocity = length of time interval: (velocity)avg =  Δx/Δt
-	- 
+	- Direction is important for velocity not for speed.
+
+Acceleration:
+
 
