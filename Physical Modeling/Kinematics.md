@@ -1,4 +1,6 @@
 Core Variables: 
 - Time = t
-- Starting time = t = 0
-- 
+	- Starting time = t = 0
+	- Time intervals 
+- Position = x
+	- 
