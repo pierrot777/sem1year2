@@ -13,5 +13,6 @@ Velocity and speed:
 	- Direction is important for velocity not for speed.
 
 Acceleration:
+- Average acceleration = change in velocity over a time interval / length of the time interval: (accelartion) average = Δv/Δt
 
 
