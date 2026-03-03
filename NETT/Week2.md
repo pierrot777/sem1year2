@@ -3,4 +3,6 @@ Review Questions:
 
 Tutorial Problem:
 
-Lab:
+# Lab:
+2.1 
+a) 
