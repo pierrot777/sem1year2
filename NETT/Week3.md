@@ -58,5 +58,7 @@ There were 4 HTTP GET messages they were sent to two different IP's. The one wit
 They were downloaded parallel as they have different destinations, indicating they are from different websites to each other when they were downloaded
 
 18. What is the server’s response (status code and phrase) in response to the initial HTTP GET message from your browser?
+401 Unauthorized
 
 19. When your browser’s sends the HTTP GET message for the second time, what new field is included in the HTTP GET message?
+It says 200 OK after username and password were put in
