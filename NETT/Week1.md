@@ -25,17 +25,17 @@ office; 3. Cable to HFC: home; 4. 100 Mbps switched Ethernet: enterprise.
 *R5. Is HFC transmission rate dedicated or shared among users? Are collisions possible in a*
 *downstream HFC channel? Why or why not?*
 
-
+In an HFC network, the bandwidth is shared among all users in the neighbourhood. For the downstream channel, all data comes from one central device called the headend. Because there is only one sender on the downstream path, collisions do not occur.
 
 *R6. What access network technologies would be most suitable for providing internet access*
 *in rural areas?*
 
-
+In rural areas, 3G, 4G, or LTE can be used if there is cellular coverage. DSL or dial-up may also be possible if telephone lines are available. However, both options require existing infrastructure nearby. If no infrastructure is available, satellite Internet can be used to provide access.
 
 *R7. Dial-up modems and DSL both use the telephone line (a twisted-pair copper cable) as*
 *their transmission medium. Why then is DSL much faster than dial-up access?*
 
-
+Dial-up Internet uses the same telephone network that carries voice calls, which limits the bandwidth to about 56 Kbps. DSL is faster because it only uses the telephone line between the home and the DSLAM, not the full voice network. It also uses higher frequency signals, allowing much higher speeds (for example, up to 24 Mbps).
 
 *R8. What are some of the physical media that Ethernet can run over? R9. HFC, DSL, and*
 *FTTH are all used for residential access. For each of these access technologies, provide a*
