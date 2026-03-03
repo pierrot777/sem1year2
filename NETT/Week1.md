@@ -57,7 +57,8 @@ It took roughly 35 milliseconds for HTTP GET message to be sent and HTTP OK repl
 
 3. What is the Internet address of the gaia.cs.umass.edu (also known as www- net.cs.umass.edu)? What is the Internet address of your computer?
 
-
+Internet address of gaia.cs.umass.edu is = 2404:6800:4006:804: : 200e
+Internet address of my computer is + 2001:8004:1d73:3d4f:d537:51d5:b65b: 9e8b
 
 4. Print the two HTTP messages (GET and OK) referred to in question 2 above. To do so, select Print from the Wireshark File command menu, and select the “Selected Packet Only” and “Print as displayed” radial buttons, and then click OK
 
