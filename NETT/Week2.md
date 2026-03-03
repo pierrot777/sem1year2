@@ -4,7 +4,7 @@ Review Questions:
 Tutorial Problem:
 
 # Lab:
-2.1 
+### 2.1 
 a) Ping - Shows how long it takes for packets to reach host
 Traceroute - Traces the route of packets to destination host from our server
 DNS Lookup - Look up DNS record 
@@ -18,7 +18,7 @@ Hostname of 8.8.8.8 - dns.google
 
 c) done
 
-2.2 
+### 2.2 
 a) 172.217.24.46
 
 b) 267ms
@@ -30,6 +30,8 @@ Packet type (Info): Echo
 d) User Wireshark to find “ping” incoming packet information.
 Protocol: ICMP
 Packet type (Info): Echo
+
+### 2.3
 
 
 
