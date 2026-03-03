@@ -15,10 +15,11 @@ Computer = Src (source) = 172.19.120.134
 Server = Dst (destination) = 128.119.245.12
 
 4. What is the status code returned from the server to your browser?
-"301 Moved Permanently" (originally because my browser was automatically upgrading)
+"301 Moved Permanently" (originally because my browser was automatically upgrading http to https so i switched to private browser and got)
+"200 OK"
 
 5. When was the HTML file that you are retrieving last modified at the server?
-
+Tue, 28 Oct 2025
 
 6. How many bytes of content are being returned to your browser?
 461 bytes were captured so 461 were returned.
