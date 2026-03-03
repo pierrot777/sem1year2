@@ -31,7 +31,7 @@ Yes, there are headers visible in the raw data that are not displayed in the pac
 No in first one (that line appears in the third GET)
 
 9. Inspect the contents of the server response. Did the server explicitly return the contents of the file? How can you tell?
-
+Yes the server did explicitly return the contents of the file, I can tell when you go to the bottom the HTML data is there that mirrors 
 
 10. Now inspect the contents of the second HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET? If so, what information follows the “IF-MODIFIED-SINCE:” header?
 
