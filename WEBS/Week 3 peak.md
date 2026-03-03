@@ -36,7 +36,7 @@ vim yadadada
 Q5) Deletion by line numbers
 cp yadayda
 vim yadyada
-:50,4049d (deletes 400 )
+:50,4049d (deletes 4000 lines)
 
 Q6) Cut and paste by line numbers 
 
