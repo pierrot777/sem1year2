@@ -53,6 +53,7 @@ There are 2 reassembled TCP segments.
 
 16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
 
+
 17. Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
 
 18. What is the server’s response (status code and phrase) in response to the initial HTTP GET message from your browser?
