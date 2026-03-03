@@ -5,7 +5,7 @@
 
 ### Lab:
 1. Is your browser running HTTP version 1.0 or 1.1? What version of HTTP is the server running?
-
+My browser is running HTTP version 1.1 and the version of HTTP the server is running on is also 1.1.
 
 2. What languages (if any) does your browser indicate that it can accept to the server?
 3. What is the IP address of your computer? Of the gaia.cs.umass.edu server?
