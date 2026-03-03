@@ -47,7 +47,7 @@ Tutorial Problem:
 
 1. List 3 different protocols that appear in the protocol column in the unfiltered packet-listing window in step 7 above.
 
-
+UDP, ARP, TCP
 
 2. How long did it take from when the HTTP GET message was sent until the HTTP OK reply was received? (By default, the value of the Time column in the packet- listing window is the amount of time, in seconds, since Wireshark tracing began. To display the Time field in time-of-day format, select the Wireshark View pull down menu, then select Time Display Format, then select Time-of-day.)
 
@@ -62,4 +62,4 @@ Internet address of my computer is + 2001:8004:1d73:3d4f:d537:51d5:b65b: 9e8b
 
 4. Print the two HTTP messages (GET and OK) referred to in question 2 above. To do so, select Print from the Wireshark File command menu, and select the “Selected Packet Only” and “Print as displayed” radial buttons, and then click OK
 
-
+DONE
