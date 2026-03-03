@@ -9,7 +9,9 @@ esc
 
 
 Q2) Join Lines
-
+cp `/course/linuxgym/vimdata/wordlist.txt` ~
+ls 
+c
 
 
 Q3) Delete a word
