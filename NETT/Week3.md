@@ -49,7 +49,7 @@ No 126.
 Status code is 200 and response is OK.
 
 15. How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
-
+There are 2 reassembled TCP segments.
 
 16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
 
