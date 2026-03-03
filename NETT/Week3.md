@@ -8,6 +8,7 @@
 My browser is running HTTP version 1.1 and the version of HTTP the server is running on is also 1.1.
 
 2. What languages (if any) does your browser indicate that it can accept to the server?
+It says it accepts 'Accept-Language: en-US,en;q=0.9\r\n' which is just english
 3. What is the IP address of your computer? Of the gaia.cs.umass.edu server?
 4. What is the status code returned from the server to your browser?
 5. When was the HTML file that you are retrieving last modified at the server?
