@@ -33,7 +33,7 @@ Packet type (Info): Echo
 
 ### 2.3
 Using “traceroute” to measure network delay and discover network path. In your Lab PC, perform “tracert” to a destination IP address within Australia.
-Find the average round-trip delay: 0 ms
+Find the average round-trip delay: 27 ms
 
 (a) Use Wireshark to find “tracert” outgoing packet information.
 Protocol: ICMP
