@@ -40,11 +40,13 @@ I don't see it in the third but I do see it in the third GET request. The inform
 "304 Not Modified" which just means the file hasn't changed so the server does not resend the file and uses the cached one instead.
 
 12. How many HTTP GET request messages did your browser send? Which packet number in the trace contains the GET message for the Bill or Rights?
-There is two HTTP GET request messages sent. 
+There is two HTTP GET request messages sent. The packet number is 118.
 
 13. Which packet number in the trace contains the status code and phrase associated with the response to the HTTP GET request?
+No 126.
 
 14. What is the status code and phrase in the response?
+
 
 15. How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
 
