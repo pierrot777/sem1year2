@@ -15,7 +15,7 @@ Computer = Src (source) = 172.19.120.134
 Server = Dst (destination) = 128.119.245.12
 
 4. What is the status code returned from the server to your browser?
-"301 Moved Permanently"
+"301 Moved Permanently" (originally because my browser was automatically upgrading)
 
 5. When was the HTML file that you are retrieving last modified at the server?
 
