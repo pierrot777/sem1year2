@@ -66,7 +66,7 @@ There were 4 HTTP GET messages they were sent to two different IP's. The one wit
 17. Can you tell wheher your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
 They were downloaded parallel as they have different destinations, indicating they are from different websites to each other when they were downloaded
 
-Part 5:
+Part Five:
 
 18. What is the server’s response (status code and phrase) in response to the initial HTTP GET message from your browser?
 401 Unauthorized
