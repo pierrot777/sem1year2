@@ -20,6 +20,16 @@ c) done
 
 2.2 
 a) 172.217.24.46
-b) 
+
+b) 267ms
+
+c) Use Wireshark to find “ping” outgoing packet information.
+Protocol: ICMP
+Packet type (Info): Echo
+
+d) User Wireshark to find “ping” incoming packet information.
+Protocol: ICMP
+Packet type (Info): Echo
+
 
 
