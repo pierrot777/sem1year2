@@ -1,6 +1,6 @@
 ### Review Questions: 
 
-Week 1 and 2 was mainly review of history of telecommunications basic structure and system , now is on netowrking
+Week 1 and 2 was mainly review of history of telecommunications basic structure and system methodology, now is on networking/application layer.
 ### Tutorial Problem:
 
 ### Lab:
