@@ -41,5 +41,12 @@ Yes, there are headers visible in the raw data that are not displayed in the pac
 
 14. What is the status code and phrase in the response?
 
-15. How many data-containing TCP segments were needed to carry the single HTTP
-response and the text of the Bill of Rights?
+15. How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
+
+16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
+
+17. Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
+
+18. What is the server’s response (status code and phrase) in response to the initial HTTP GET message from your browser?
+
+19. When your browser’s sends the HTTP GET message for the second time, what new field is included in the HTTP GET message?
