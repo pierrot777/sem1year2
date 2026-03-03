@@ -18,4 +18,7 @@ Hostname of 8.8.8.8 - dns.google
 
 c) done
 
+2.2 
+a) 
+
 
