@@ -52,7 +52,7 @@ Status code is 200 and response is OK.
 There are 2 reassembled TCP segments.
 
 16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
-There were 4 HTTP GET messages
+There were 4 HTTP GET messages they were sent to two different IP's 
 
 17. Can you tell whether your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
 
