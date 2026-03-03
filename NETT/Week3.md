@@ -15,7 +15,9 @@ Computer = Src (source) = 172.19.120.134
 Server = Dst (destination) = 128.119.245.12
 
 4. What is the status code returned from the server to your browser?
+"301 Moved Permanently"
 
 5. When was the HTML file that you are retrieving last modified at the server?
+
 6. How many bytes of content are being returned to your browser?
 7. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
