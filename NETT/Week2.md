@@ -16,6 +16,6 @@ IP address of google - 142.251.38.110
 Reverse lookup got host name - lcarna-ac-in-f14.1e100.net
 Hostname of 8.8.8.8 - dns.google
 
-c) 
+c) done
 
 
