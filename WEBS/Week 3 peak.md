@@ -21,7 +21,9 @@ Q3) Delete a word
 cp `/course/linuxgym/teeny/1mwsm10.txt` ~
 ls
 vim 1mwsm10.txt
-
+6G ( takes u to line 6 )
+dw (delete word)
+:wq
 
 
 Q4) Search and line deletion 
