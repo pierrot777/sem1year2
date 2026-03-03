@@ -9,7 +9,12 @@ Q4) Search and line deletion
 
 Q5) Deletion by line numbers
 
-Q6) Delete to the end of a file
+Q6) Cut and paste by line numbers 
 
-Q7) Cut and past
-Q8)
+Q7) Delete to the end of a file
+
+Q8) Search and replace strings
+
+Q9) Search and replace words
+
+Q10) Cut and paste by markers
