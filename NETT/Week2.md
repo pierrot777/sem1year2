@@ -32,6 +32,19 @@ Protocol: ICMP
 Packet type (Info): Echo
 
 ### 2.3
+Using “traceroute” to measure network delay and discover network path. In your Lab PC, perform “tracert” to a destination IP address within Australia.
+Find the average round-trip delay: 0 ms
+
+(a) Use Wireshark to find “tracert” outgoing packet information.
+Protocol: ICMP
+Packet type (Info): Echo
+
+(b) Use Wireshark to find “tracert” incoming packet information.
+Protocol: ICMP
+Packet type (Info): Echo
+
+(c) Try to identify the number of ISP networks that the Traceroute packets pass through from source to destination(How many hops are taken). Routers with similar names and/or similar IP addresses should be considered as part of the same ISP. In your experiments, do the largest delays occur at the peering interfaces between adjacent ISPs? = 10
+
 
 
 
