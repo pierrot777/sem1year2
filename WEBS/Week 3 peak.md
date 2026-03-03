@@ -39,6 +39,9 @@ vim yadyada
 :50,4049d (deletes 4000 lines)
 
 Q6) Cut and paste by line numbers 
+cp yadayadayada
+vim yadayada
+:1,10m$ (selects first ten then move to the bottom)
 
 Q7) Delete to the end of a file
 
