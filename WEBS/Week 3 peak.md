@@ -11,7 +11,10 @@ esc
 Q2) Join Lines
 cp `/course/linuxgym/vimdata/wordlist.txt` ~
 ls 
-c
+vim wordlist.txt
+I 
+fix lines
+:wq
 
 
 Q3) Delete a word
