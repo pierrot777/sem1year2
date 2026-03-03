@@ -25,3 +25,6 @@ Tue, 28 Oct 2025, 05:59:01 GMT
 461 bytes were captured so 461 were returned.
 
 7. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
+Yes, there are headers visible in the raw data that are not displayed in the packet-listing window. For example, the ETag header appears in the raw data but is not shown in the packet-listing summary.
+
+
