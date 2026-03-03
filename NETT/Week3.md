@@ -34,7 +34,7 @@ No in first one (that line appears in the third GET)
 Yes the server did explicitly return the contents of the file, I can tell when you go to the bottom the HTML data is there that mirrors the site.
 
 10. Now inspect the contents of the second HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET? If so, what information follows the “IF-MODIFIED-SINCE:” header?
-I don't see it in the third but I do see it in the third GET request. 
+I don't see it in the third but I do see it in the third GET request. The information that follows is the date it was last modified, which was Tue 28th Oct, and the line below is If-None-match.
 
 11. What is the HTTP status code and phrase returned from the server in response to this second HTTP GET? Did the server explicitly return the contents of the file? Explain
 
