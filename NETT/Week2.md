@@ -23,27 +23,14 @@ done
 
 ### 2.2 
 
-(a) Find destination (e.g., nslookup google.com.au) IP address: 72.217.24.46
-(b) Perform “ping” to the IP address to find the average round-trip delay: ________.
+(a) Find destination (e.g., nslookup google.com.au) IP address: 172.217.24.46
+(b) Perform “ping” to the IP address to find the average round-trip delay: 267ms
 (c) Use Wireshark to find “ping” outgoing packet information.
-Protocol: _______
-Packet type (Info): __________
+Protocol: ICMP
+Packet type (Info):  ECHO
 (d) User Wireshark to find “ping” incoming packet information.
-Protocol: _______
-Packet type (Info): __________
-
-
-a) 172.217.24.46
-
-b) 267ms
-
-c) Use Wireshark to find “ping” outgoing packet information.
 Protocol: ICMP
-Packet type (Info): Echo
-
-d) User Wireshark to find “ping” incoming packet information.
-Protocol: ICMP
-Packet type (Info): Echo
+Packet type (Info): ECHO
 
 ### 2.3
 Using “traceroute” to measure network delay and discover network path. In your Lab PC, perform “tracert” to a destination IP address within Australia.
