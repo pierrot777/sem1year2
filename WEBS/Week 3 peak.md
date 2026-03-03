@@ -18,6 +18,11 @@ fix lines
 
 
 Q3) Delete a word
+cp `/course/linuxgym/teeny/1mwsm10.txt` ~
+ls
+vim 1mwsm10.txt
+
+
 
 Q4) Search and line deletion 
 
