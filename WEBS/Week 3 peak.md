@@ -50,5 +50,6 @@ Q8) Search and replace strings
 :%s/and/OR/g
 
 Q9) Search and replace words
+:%s/\<and\>/OR/g
 
 Q10) Cut and paste by markers
