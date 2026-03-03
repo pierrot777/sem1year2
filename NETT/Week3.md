@@ -1,6 +1,6 @@
 ### Review Questions: 
 
-
+Week 1 and 2 was mainly review of history of telecommunications, now is on netowrking
 ### Tutorial Problem:
 
 ### Lab:
