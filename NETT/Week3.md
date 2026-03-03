@@ -30,6 +30,8 @@ Tue, 28 Oct 2025, 05:59:01 GMT
 7. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
 Yes, there are headers visible in the raw data that are not displayed in the packet-listing window. For example, the ETag header appears in the raw data but is not shown in the packet-listing summary.
 
+Part Two:
+
 8. Inspect the contents of the first HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE” line in the HTTP GET?
 No in first one (that line appears in the third GET)
 
@@ -41,6 +43,8 @@ I don't see it in the third but I do see it in the third GET request. The inform
 
 11. What is the HTTP status code and phrase returned from the server in response to this second HTTP GET? Did the server explicitly return the contents of the file? Explain
 "304 Not Modified" which just means the file hasn't changed so the server does not resend the file and uses the cached one instead.
+
+Part Three:
 
 12. How many HTTP GET request messages did your browser send? Which packet number in the trace contains the GET message for the Bill or Rights?
 There is two HTTP GET request messages sent. The packet number is 118.
@@ -54,11 +58,15 @@ Status code is 200 and response is OK.
 15. How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
 There are 2 reassembled TCP segments.
 
+Part Four:
+
 16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
 There were 4 HTTP GET messages they were sent to two different IP's. The one with the different IP was the cover_small.jpg.
 
 17. Can you tell wheher your browser downloaded the two images serially, or whether they were downloaded from the two web sites in parallel? Explain.
 They were downloaded parallel as they have different destinations, indicating they are from different websites to each other when they were downloaded
+
+Part 5:
 
 18. What is the server’s response (status code and phrase) in response to the initial HTTP GET message from your browser?
 401 Unauthorized
