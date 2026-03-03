@@ -8,9 +8,12 @@
 My browser is running HTTP version 1.1 and the version of HTTP the server is running on is also 1.1.
 
 2. What languages (if any) does your browser indicate that it can accept to the server?
-It says it accepts 'Accept-Language: en-US,en;q=0.9\r\n' which is just english
+It says it accepts in Hypertext transfer protocol, 'Accept-Language: en-US,en;q=0.9\r\n' which is just English
+
 3. What is the IP address of your computer? Of the gaia.cs.umass.edu server?
-4. What is the status code returned from the server to your browser?
-5. When was the HTML file that you are retrieving last modified at the server?
-6. How many bytes of content are being returned to your browser?
-7. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
+
+Dst (destination) = 128.119.245.12
+3. What is the status code returned from the server to your browser?
+4. When was the HTML file that you are retrieving last modified at the server?
+5. How many bytes of content are being returned to your browser?
+6. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
