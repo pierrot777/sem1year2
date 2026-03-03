@@ -37,6 +37,7 @@ Yes the server did explicitly return the contents of the file, I can tell when y
 I don't see it in the third but I do see it in the third GET request. The information that follows is the date it was last modified, which was Tue 28th Oct, and the line below is If-None-match.
 
 11. What is the HTTP status code and phrase returned from the server in response to this second HTTP GET? Did the server explicitly return the contents of the file? Explain
+"304 Not Modifed" which just means the file hasn't changed
 
 12. How many HTTP GET request messages did your browser send? Which packet number in the trace contains the GET message for the Bill or Rights?
 
