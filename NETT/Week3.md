@@ -28,6 +28,7 @@ Tue, 28 Oct 2025, 05:59:01 GMT
 Yes, there are headers visible in the raw data that are not displayed in the packet-listing window. For example, the ETag header appears in the raw data but is not shown in the packet-listing summary.
 
 8. Inspect the contents of the first HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE” line in the HTTP GET?
+Yes 
 
 9. Inspect the contents of the server response. Did the server explicitly return the contents of the file? How can you tell?
 
