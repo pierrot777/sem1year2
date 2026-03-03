@@ -53,7 +53,7 @@ UDP, ARP, TCP
 
 ![[Pasted image 20260303185134.png]]
 
-It took roughly 35 milliseconds for HTTP GET message to be sent and HTTP OK reply was received.
+It took roughly 35 milliseconds between HTTP GET message to be sent and HTTP OK reply was received.
 
 3. What is the Internet address of the gaia.cs.umass.edu (also known as www- net.cs.umass.edu)? What is the Internet address of your computer?
 
