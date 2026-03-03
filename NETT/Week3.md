@@ -31,10 +31,15 @@ Yes, there are headers visible in the raw data that are not displayed in the pac
 
 9. Inspect the contents of the server response. Did the server explicitly return the contents of the file? How can you tell?
 
-10. Now inspect the contents of the second HTTP GET request from your browser to
-the server. Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET? If
-so, what information follows the “IF-MODIFIED-SINCE:” header?
-11. What is the HTTP status code and phrase returned from the server in response to
-this second HTTP GET? Did the server explicitly return the contents of the file?
-Explain
+10. Now inspect the contents of the second HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET? If so, what information follows the “IF-MODIFIED-SINCE:” header?
 
+11. What is the HTTP status code and phrase returned from the server in response to this second HTTP GET? Did the server explicitly return the contents of the file? Explain
+
+12. How many HTTP GET request messages did your browser send? Which packet number in the trace contains the GET message for the Bill or Rights?
+
+13. Which packet number in the trace contains the status code and phrase associated with the response to the HTTP GET request?
+
+14. What is the status code and phrase in the response?
+
+15. How many data-containing TCP segments were needed to carry the single HTTP
+response and the text of the Bill of Rights?
