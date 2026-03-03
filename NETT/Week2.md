@@ -13,7 +13,8 @@ b) My IP address - 1.145.69.188
 ![[Pasted image 20260303191445.png]]
 
 IP address of google - 142.251.38.110
-
+Reverse lookup got host name - lcarna-ac-in-f14.1e100.net
+Hostname 
 
 c) 
 
