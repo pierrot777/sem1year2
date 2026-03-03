@@ -46,9 +46,10 @@ There is two HTTP GET request messages sent. The packet number is 118.
 No 126.
 
 14. What is the status code and phrase in the response?
-
+Status code is 200 and response is OK.
 
 15. How many data-containing TCP segments were needed to carry the single HTTP response and the text of the Bill of Rights?
+
 
 16. How many HTTP GET request messages did your browser send? To which Internet addresses were these GET requests sent?
 
