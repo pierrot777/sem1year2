@@ -26,9 +26,15 @@ dw (delete word)
 :wq
 
 
-Q4) Search and line deletion 
+Q4) Search and line deletion
+cp yadada ~
+vim yadadada
+:g/opera-girls/d
+:wq
+
 
 Q5) Deletion by line numbers
+
 
 Q6) Cut and paste by line numbers 
 
