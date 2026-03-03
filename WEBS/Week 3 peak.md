@@ -1,7 +1,16 @@
 ED questions 
 Q1) Insert text
+touch hw.txt 
+vim hw.txt
+I (goes to insert)
+hello world
+esc
+:wq
+
 
 Q2) Join Lines
+
+
 
 Q3) Delete a word
 
