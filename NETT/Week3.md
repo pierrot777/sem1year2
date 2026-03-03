@@ -27,4 +27,14 @@ Tue, 28 Oct 2025, 05:59:01 GMT
 7. By inspecting the raw data in the packet content window, do you see any headers within the data that are not displayed in the packet-listing window? If so, name one.
 Yes, there are headers visible in the raw data that are not displayed in the packet-listing window. For example, the ETag header appears in the raw data but is not shown in the packet-listing summary.
 
+8. Inspect the contents of the first HTTP GET request from your browser to the server. Do you see an “IF-MODIFIED-SINCE” line in the HTTP GET?
+
+9. Inspect the contents of the server response. Did the server explicitly return the contents of the file? How can you tell?
+
+10. Now inspect the contents of the second HTTP GET request from your browser to
+the server. Do you see an “IF-MODIFIED-SINCE:” line in the HTTP GET? If
+so, what information follows the “IF-MODIFIED-SINCE:” header?
+11. What is the HTTP status code and phrase returned from the server in response to
+this second HTTP GET? Did the server explicitly return the contents of the file?
+Explain
 
