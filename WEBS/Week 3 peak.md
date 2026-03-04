@@ -54,4 +54,5 @@ Q9) Search and replace words
 
 Q10) Cut and paste by markers
 ma (copy first line)
-y'a (copy to the lin)
+y'a (copy to the line you want) yanks
+d'a (delete to line you want)
