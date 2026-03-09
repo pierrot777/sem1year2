@@ -1,3 +1,5 @@
+Notes:
+
 Review Questions: 
 ## Section 1.1
 ###### *R1. What is the difference between a host and an end system? List several different types of end systems. Is a Web server an end system?*
