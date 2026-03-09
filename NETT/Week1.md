@@ -1,93 +1,114 @@
 Notes:
-# Computer Networking – Chapter 1
+# Computer Networking – Chapter 1 
 
 ## 1.1 What is the Internet?
-- The Internet is a **network of networks** connecting billions of devices.
-- Devices connected to the Internet are called **hosts (end systems)**.
-- Data is sent in **packets (small pieces of data)**.
-- Communication between devices follows **protocols**.
+The Internet is a **global system that connects networks and devices together**.
 
-**Protocol:** rules that define how messages are formatted, sent, and received.  
-Examples: HTTP, TCP/IP, WiFi, Ethernet.
+Devices connected to the Internet are called **hosts (end systems)**:
+- phones
+- laptops
+- servers
+- smart devices
+
+Data is sent across the Internet in **packets** (small chunks of data).
+
+Devices communicate using **protocols**, which are rules for how data is sent and received.
+
+Examples:
+- HTTP → web pages
+- TCP/IP → core Internet communication
+- WiFi / Ethernet → network connections
 
 ---
 
 ## 1.2 Network Edge
-The **network edge** is where devices connect to the Internet.
+The **network edge** is where users connect to the Internet.
 
-Includes:
-- **Clients** – request services (phones, laptops)
-- **Servers** – provide services (web servers, cloud)
+Two main types of hosts:
+- **Clients** → request services (browser, phone)
+- **Servers** → provide services (websites, cloud servers)
 
-Connected through **access networks**:
+Devices connect through **access networks** such as:
 - Home networks
-- Enterprise networks (schools, companies)
+- Enterprise networks (universities, companies)
 - Mobile networks (4G/5G)
 
-Physical media used for connections:
-- **Wired:** twisted pair, coaxial, fibre
-- **Wireless:** WiFi, cellular, satellite
+Physical connections can be:
+- **Wired:** Ethernet, fibre
+- **Wireless:** WiFi, cellular
 
 ---
 
 ## 1.3 Network Core
-The **network core** is made of interconnected **routers**.
+The **network core** is the middle of the Internet.
+
+It is made of many **routers connected together**.
 
 Routers:
-- Receive packets
-- Forward them to the next router
-- Eventually reach the destination
+- receive packets
+- decide where to send them next
+- forward them toward the destination
 
 ### Packet Switching
-- Data is broken into packets
-- Packets travel through routers
-- Efficient because many users share the network
+The Internet uses **packet switching**.
 
-### Circuit Switching
-- Dedicated path reserved for communication
-- Used in traditional telephone networks
+This means:
+1. Data is broken into packets
+2. Packets travel through many routers
+3. Packets are reassembled at the destination
+
+This allows **many users to share the network efficiently**.
 
 ---
 
 ## 1.4 Network Performance
-Key performance measures:
+Three important performance metrics:
 
-- **Delay:** time for a packet to travel
-- **Loss:** packets dropped due to congestion
-- **Throughput:** rate data is delivered (bits per second)
+**Delay**
+- Time it takes for data to travel.
+
+**Packet Loss**
+- Packets may be dropped if the network is congested.
+
+**Throughput**
+- The speed data is delivered (bits per second).
 
 ---
 
 ## 1.5 Protocol Layers
-Networking is organised into layers.
+Networking is organised into **layers** to simplify design.
 
-Common Internet layers:
+Main Internet layers:
 1. Application
 2. Transport
 3. Network
 4. Link
 5. Physical
 
-Layering helps simplify network design.
+Each layer performs a different job.
 
 ---
 
-## 1.6 Network Under Attack
-Common network threats:
-- **Malware**
-- **Denial of Service (DoS)**
-- **Packet sniffing**
-- **IP spoofing**
+## 1.6 Networks Under Attack
+Networks can face security threats such as:
 
-Security is needed to protect networks and data.
+- **Malware** → malicious software
+- **DoS attacks** → overwhelming servers with traffic
+- **Packet sniffing** → intercepting network data
+- **IP spoofing** → pretending to be another device
+
+Security mechanisms help protect data and systems.
 
 ---
 
-## 1.7 Internet History
-- **1960s:** ARPANET created
-- **1980s:** TCP/IP adopted
-- **1990s:** World Wide Web grows
-- **Today:** global Internet connecting billions of devices
+## 1.7 History of the Internet
+Key milestones:
+
+1960s → ARPANET created  
+1980s → TCP/IP adopted as standard  
+1990s → World Wide Web invented  
+Today → global Internet connecting billions of devices
+
 
 Review Questions: 
 ## Section 1.1

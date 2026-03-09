@@ -1,3 +1,74 @@
+# Networking Week 3 – Application Layer
+
+## Network Applications
+Examples:
+- Web browsing
+- Email
+- Video streaming
+- Online games
+- Messaging
+
+Applications run on **end systems**, not routers.
+
+---
+
+## Application Architectures
+
+Client-Server
+- client requests service
+- server provides service
+- server always running
+Example: websites
+
+Peer-to-Peer (P2P)
+- devices communicate directly
+- no permanent server
+Example: BitTorrent
+
+---
+
+## Processes
+A process = program running on a device.
+
+Communication occurs between:
+- client process
+- server process
+
+Processes communicate using **messages**.
+
+---
+
+## Sockets
+Socket = **door between application and network**.
+
+Application sends data → socket → network.
+
+Each connection uses:
+- IP address
+- Port number
+
+Example ports:
+HTTP → 80  
+Email → 25
+
+---
+
+## Transport Protocols
+
+TCP
+- reliable
+- ordered delivery
+- congestion control
+- connection-oriented
+
+UDP
+- faster
+- no reliability guarantees
+- no connection setup
+
+Used for:
+games, streaming, real-time apps
+
 ### Review Questions: 
 
 Week 1 and 2 was mainly review of history of telecommunications basic structure and system methodology, now is on networking/application layer.

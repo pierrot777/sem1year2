@@ -1,3 +1,77 @@
+# Networking Week 2 – Performance & Layers
+
+## Packet Delay
+When data travels through a network it experiences delay.
+
+4 types of delay:
+
+Processing delay
+- Router checks packet and decides where to send it.
+
+Queueing delay
+- Packet waits in buffer if router is busy.
+
+Transmission delay
+- Time required to push packet onto link.
+- Formula: L / R
+(L = packet size, R = bandwidth)
+
+Propagation delay
+- Time for signal to travel through cable.
+- Formula: distance / signal speed
+
+Total delay:
+D = processing + queueing + transmission + propagation
+
+---
+
+## Traffic Intensity
+Traffic intensity = La / R
+
+L = packet size  
+a = packet arrival rate  
+R = link bandwidth
+
+If traffic intensity approaches **1**:
+→ queueing delay becomes very large.
+
+---
+
+## Packet Loss
+Routers have limited buffer space.
+
+If buffer is full:
+→ incoming packets are **dropped (lost)**.
+
+---
+
+## Throughput
+Throughput = **actual rate data is delivered**.
+
+Important rule:
+
+End-to-end throughput = **bottleneck link speed**
+
+The slowest link determines overall speed.
+
+---
+
+## Protocol Layers (Internet Stack)
+
+5 layers:
+
+Application → apps like HTTP, SMTP  
+Transport → TCP, UDP  
+Network → routing (IP)  
+Link → Ethernet, WiFi  
+Physical → bits on cable
+
+Why layering?
+
+- simplifies networking design
+- easier to upgrade systems
+- each layer focuses on one job
+
 Review Questions: 
 
 
