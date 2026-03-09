@@ -1,4 +1,93 @@
 Notes:
+# Computer Networking – Chapter 1
+
+## 1.1 What is the Internet?
+- The Internet is a **network of networks** connecting billions of devices.
+- Devices connected to the Internet are called **hosts (end systems)**.
+- Data is sent in **packets (small pieces of data)**.
+- Communication between devices follows **protocols**.
+
+**Protocol:** rules that define how messages are formatted, sent, and received.  
+Examples: HTTP, TCP/IP, WiFi, Ethernet.
+
+---
+
+## 1.2 Network Edge
+The **network edge** is where devices connect to the Internet.
+
+Includes:
+- **Clients** – request services (phones, laptops)
+- **Servers** – provide services (web servers, cloud)
+
+Connected through **access networks**:
+- Home networks
+- Enterprise networks (schools, companies)
+- Mobile networks (4G/5G)
+
+Physical media used for connections:
+- **Wired:** twisted pair, coaxial, fibre
+- **Wireless:** WiFi, cellular, satellite
+
+---
+
+## 1.3 Network Core
+The **network core** is made of interconnected **routers**.
+
+Routers:
+- Receive packets
+- Forward them to the next router
+- Eventually reach the destination
+
+### Packet Switching
+- Data is broken into packets
+- Packets travel through routers
+- Efficient because many users share the network
+
+### Circuit Switching
+- Dedicated path reserved for communication
+- Used in traditional telephone networks
+
+---
+
+## 1.4 Network Performance
+Key performance measures:
+
+- **Delay:** time for a packet to travel
+- **Loss:** packets dropped due to congestion
+- **Throughput:** rate data is delivered (bits per second)
+
+---
+
+## 1.5 Protocol Layers
+Networking is organised into layers.
+
+Common Internet layers:
+1. Application
+2. Transport
+3. Network
+4. Link
+5. Physical
+
+Layering helps simplify network design.
+
+---
+
+## 1.6 Network Under Attack
+Common network threats:
+- **Malware**
+- **Denial of Service (DoS)**
+- **Packet sniffing**
+- **IP spoofing**
+
+Security is needed to protect networks and data.
+
+---
+
+## 1.7 Internet History
+- **1960s:** ARPANET created
+- **1980s:** TCP/IP adopted
+- **1990s:** World Wide Web grows
+- **Today:** global Internet connecting billions of devices
 
 Review Questions: 
 ## Section 1.1
